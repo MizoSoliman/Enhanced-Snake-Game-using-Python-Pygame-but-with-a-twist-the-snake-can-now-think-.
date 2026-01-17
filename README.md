@@ -1,0 +1,2 @@
+# Enhanced-Snake-Game-using-Python-Pygame-but-with-a-twist-the-snake-can-now-think-.
+🔹 Implemented a Greedy Best-First Search algorithm to allow the snake to automatically navigate toward the fruit 🔹 Designed a dynamic difficulty system (Easy / Normal / Hard) 🔹 Added special golden fruits with bonus rewards 🔹 Built a clean UI with start menu, game-over screen, restart &amp; exit buttons🔹 Added theme switching and smooth animations
